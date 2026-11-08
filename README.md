@@ -55,7 +55,7 @@ PingBot's knowledge base includes:
 ```text
 PingBot/
 │
-├── pingbot.py
+├── maincode.py
 └── README.md
 ```
 
@@ -82,7 +82,7 @@ pip install gradio
 **4. Run the application**
 
 ```bash
-python pingbot.py
+python maincode.py
 ```
 
 The chatbot will launch in your default web browser.
